@@ -1,5 +1,5 @@
 # DHT11 Environmental Sensing & Web Hosting
-
+![Circuit Setup](1000201966.jpg)
 Project by: Diego Morales | Date: 1/31/26
 This project is my first deep dive into gathering data from the physical world and serving it over a network. I used a DHT11 sensor to pull temperature and humidity data and hosted it on a local web server using the ESP32.
 
